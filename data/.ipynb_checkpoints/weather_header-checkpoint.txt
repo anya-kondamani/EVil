@@ -1,0 +1,16 @@
+Weather Data Table Header：
+
+T：Air temperature (degree Celsius) at 2 metre height above the earth's surfuce.
+Po: Atmospheric pressure at weather station level (millimeters of mercury).
+P: Atmospheric pressure reduced to mean sea level (millimeters of mercury).
+U: Relative humidty (%) at a height of 2 metres above the earth's surface.
+DD: Mean wind direction (compass points) at a height of 10-12 metres above the earth's surface over the 10-minute period immediately preceding the observation.
+Ff: Mean wind speed at a height of 10-12 metres above the earth's surface over the 10-minute periodimmediately preceding the observation (meters persecond).
+ff10: Maximum gust value at a height of 10-12 metres above the earth's surface over the 10-minute period immediately preceding the observation (meters per second).
+WW: Special present weather phenomena observed at or near the aerodrome.
+W'W': Recent weather phenomena of operational significance.
+nRAIN: 0-normal,1-light rain or thunderstorm, 2-rain or thunderstorm, 3-heavy rain or thunderstorm. (Airport)
+0-normal, 1-rain not falling as shower(s), 2-slight or moderate rain, 3-heavy rain. (Central)
+c: Total cloud cover.
+VV: Horizontal visibility (km).
+Td: Dewpoint temperature at a height of 2 metres above the earth's surface (degrees Celsius).
