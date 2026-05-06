@@ -1,4 +1,4 @@
-### New York University, Machine Learning for Climate Change
+## Forecasting EV Charging Demand for Smarter Infrastructure 
 ### Anya Kondamani, ak8699@nyu.edu
 Transportation is a major contributor to global greenhouse gas emissions, so the transition to electric vehicles is essential when it comes to climate change mitigation. This project aims to forecast EV charging demand over time using an LSTM and use these predictions to identify which districts require additional charging infrastructure or grid capacity. This supports efficient electricity distribution, reduced emissions, and better integration of renewable energy into urban systems. 
 
